@@ -1,0 +1,483 @@
+TYPE,YEAR,MONTH,DAY,HOUR,MINUTE,HUNDRED_BLOCK,NEIGHBOURHOOD,X,Y
+Theft from Vehicle,2023,3,2,16,0,11XX NOOTKA ST,Hastings-Sunrise,496992.099,5457928.1545
+Theft from Vehicle,2023,4,13,10,59,12XX KAMLOOPS ST,Hastings-Sunrise,496017.8021,5457847.4634
+Theft from Vehicle,2023,2,28,0,0,12XX NOOTKA ST,Hastings-Sunrise,496992.2464,5457899.4675
+Theft from Vehicle,2023,2,3,2,20,14XX RENFREW ST,Hastings-Sunrise,496790.2236,5457683.0788
+Theft from Vehicle,2023,1,30,2,11,16XX LILLOOET ST,Hastings-Sunrise,497162.7687,5457456.4195
+Theft from Vehicle,2023,4,13,22,30,16XX NANAIMO ST,Hastings-Sunrise,495887.3029,5457516.2728
+Theft from Vehicle,2023,3,10,16,0,17XX BOUNDARY RD,Hastings-Sunrise,498273.0478,5457350.9866
+Theft from Vehicle,2023,4,12,8,15,17XX BOUNDARY RD,Hastings-Sunrise,498273.055,5457352.9689
+Theft from Vehicle,2023,5,4,20,0,17XX CASSIAR ST,Hastings-Sunrise,497750.0532,5457348.454
+Theft from Vehicle,2023,3,3,7,30,18XX KOOTENAY ST,Hastings-Sunrise,498089.7688,5457295.5508
+Theft from Vehicle,2023,3,3,7,30,18XX KOOTENAY ST,Hastings-Sunrise,498101.7794,5457223.0777
+Theft from Vehicle,2023,3,30,21,0,18XX RENFREW ST,Hastings-Sunrise,496785.7084,5457264.3718
+Theft from Vehicle,2023,5,30,22,0,19XX RUPERT ST,Hastings-Sunrise,497558.7173,5457165.5003
+Theft from Vehicle,2023,5,7,17,0,1XX KASLO ST,Hastings-Sunrise,496609.1027,5459010.2167
+Theft from Vehicle,2023,1,20,10,0,1XX N RENFREW ST,Hastings-Sunrise,496800.3896,5459315.7364
+Theft from Vehicle,2023,6,11,15,55,1XX N RENFREW ST,Hastings-Sunrise,496800.3896,5459315.7364
+Theft from Vehicle,2023,5,4,18,0,20XX RENFREW ST,Hastings-Sunrise,496782.2126,5457040.354
+Theft from Vehicle,2023,5,1,11,0,21XX CASSIAR ST,Hastings-Sunrise,497748.9482,5456977.5926
+Theft from Vehicle,2023,6,1,8,50,24XX CAMBRIDGE ST,Hastings-Sunrise,495961.5492,5459328.041
+Theft from Vehicle,2023,4,13,17,0,24XX CHARLES ST,Hastings-Sunrise,495885.6592,5457833.1013
+Theft from Vehicle,2023,6,6,13,27,24XX DUNDAS ST,Hastings-Sunrise,495945.5299,5459110.738
+Theft from Vehicle,2023,5,20,16,55,24XX E 3RD AVE,Hastings-Sunrise,495882.9736,5457203.4823
+Theft from Vehicle,2023,3,22,9,6,24XX ETON ST,Hastings-Sunrise,495898.8438,5459438.8244
+Theft from Vehicle,2023,6,11,23,0,24XX ETON ST,Hastings-Sunrise,495941.5454,5459447.905
+Theft from Vehicle,2023,6,19,0,1,24XX ETON ST,Hastings-Sunrise,495946.8954,5459447.8933
+Theft from Vehicle,2023,7,12,22,50,24XX FRANKLIN ST,Hastings-Sunrise,496023.3922,5458809.611
+Theft from Vehicle,2023,2,24,22,0,24XX GRANT ST,Hastings-Sunrise,495895.7434,5457620.1199
+Theft from Vehicle,2023,3,12,21,30,24XX LILLOOET ST,Hastings-Sunrise,497152.1092,5456595.3502
+Theft from Vehicle,2023,7,13,1,30,24XX TRINITY ST,Hastings-Sunrise,495893.9586,5459659.2236
+Theft from Vehicle,2023,6,29,23,0,24XX VENABLES ST,Hastings-Sunrise,495982.5733,5458214.2593
+Theft from Vehicle,2023,2,26,19,0,25XX E 6TH AVE,Hastings-Sunrise,496088.7463,5456896.0133
+Theft from Vehicle,2023,5,4,17,0,25XX E 7TH AVE,Hastings-Sunrise,496024.8443,5456786.596
+Theft from Vehicle,2023,1,12,6,0,25XX E BROADWAY AVE,Hastings-Sunrise,496030.3308,5456589.6301
+Theft from Vehicle,2023,6,24,1,0,25XX E HASTINGS ST,Hastings-Sunrise,496035.9454,5458709.3367
+Theft from Vehicle,2023,4,19,8,0,25XX E HASTINGS ST,Hastings-Sunrise,496105.057,5458709.1428
+Theft from Vehicle,2023,5,2,21,0,25XX PARKER ST,Hastings-Sunrise,496054.5674,5458122.0293
+Theft from Vehicle,2023,7,12,14,3,25XX PARKER ST,Hastings-Sunrise,496073.1651,5458112.9132
+Theft from Vehicle,2023,6,8,23,0,26XX E 5TH AVE,Hastings-Sunrise,496211.224,5456991.2857
+Theft from Vehicle,2023,3,13,2,0,26XX E 8TH AVE,Hastings-Sunrise,496343.3069,5456684.5317
+Theft from Vehicle,2023,5,23,3,0,26XX E BROADWAY AVE,Hastings-Sunrise,496346.2038,5456588.2841
+Theft from Vehicle,2023,3,21,19,30,26XX E HASTINGS ST,Hastings-Sunrise,496225.621,5458708.8032
+Theft from Vehicle,2023,5,18,12,0,26XX E PENDER ST,Hastings-Sunrise,496224.9332,5458604.9828
+Theft from Vehicle,2023,2,24,17,0,26XX GRANT ST,Hastings-Sunrise,496384.7599,5457618.9683
+Theft from Vehicle,2023,5,31,1,0,26XX PARKER ST,Hastings-Sunrise,496359.125,5458122.0018
+Theft from Vehicle,2023,1,2,21,0,26XX VENABLES ST,Hastings-Sunrise,496337.6551,5458206.4561
+Theft from Vehicle,2023,7,17,13,4,27XX CAMBRIDGE ST,Hastings-Sunrise,496419.6379,5459327.0373
+Theft from Vehicle,2023,6,12,1,0,27XX CAMBRIDGE ST,Hastings-Sunrise,496521.8068,5459326.7424
+Theft from Vehicle,2023,6,15,5,40,27XX CAMBRIDGE ST,Hastings-Sunrise,496521.8068,5459326.7424
+Theft from Vehicle,2023,3,13,22,0,27XX E 2ND AVE,Hastings-Sunrise,496501.3125,5457307.7685
+Theft from Vehicle,2023,4,9,18,0,27XX E 3RD AVE,Hastings-Sunrise,496405.7675,5457199.7799
+Theft from Vehicle,2023,1,23,0,0,27XX E 4TH AVE,Hastings-Sunrise,496562.8528,5457106.1106
+Theft from Vehicle,2023,6,9,14,18,27XX E 8TH AVE,Hastings-Sunrise,496459.574,5456693.0664
+Theft from Vehicle,2023,2,10,23,0,27XX E 8TH AVE,Hastings-Sunrise,496538.16,5456683.3351
+Theft from Vehicle,2023,3,16,0,15,27XX E GEORGIA ST,Hastings-Sunrise,496424.3712,5458397.1996
+Theft from Vehicle,2023,6,29,18,0,27XX E PENDER ST,Hastings-Sunrise,496421.3246,5458604.0955
+Theft from Vehicle,2023,2,26,0,0,27XX E PENDER ST,Hastings-Sunrise,496588.2721,5458603.2323
+Theft from Vehicle,2023,3,30,21,30,27XX KITCHENER ST,Hastings-Sunrise,496485.5001,5457732.1147
+Theft from Vehicle,2023,5,30,23,0,27XX PANDORA ST,Hastings-Sunrise,496566.2697,5458910.0433
+Theft from Vehicle,2023,6,25,2,0,27XX WILLIAM ST,Hastings-Sunrise,496508.5977,5457927.8201
+Theft from Vehicle,2023,6,13,8,0,27XX YALE ST,Hastings-Sunrise,496552.5608,5459770.208
+Theft from Vehicle,2023,6,29,9,0,27XX YALE ST,Hastings-Sunrise,496585.3536,5459770.2333
+Theft from Vehicle,2023,3,10,0,30,28XX ADANAC ST,Hastings-Sunrise,496626.3857,5458296.0231
+Theft from Vehicle,2023,2,5,22,15,28XX E 2ND AVE,Hastings-Sunrise,496593.5198,5457298.5298
+Theft from Vehicle,2023,5,31,20,0,28XX E 2ND AVE,Hastings-Sunrise,496711.4096,5457298.712
+Theft from Vehicle,2023,6,14,0,0,28XX E 5TH AVE,Hastings-Sunrise,496646.7039,5456989.4801
+Theft from Vehicle,2023,3,29,0,0,28XX E 6TH AVE,Hastings-Sunrise,496728.4221,5456893.0211
+Theft from Vehicle,2023,5,14,22,22,28XX E HASTINGS ST,Hastings-Sunrise,496612.192,5458707.6331
+Theft from Vehicle,2023,1,21,15,0,28XX E HASTINGS ST,Hastings-Sunrise,496773.3471,5458716.7839
+Theft from Vehicle,2023,3,17,13,30,28XX E HASTINGS ST,Hastings-Sunrise,496773.3471,5458716.7839
+Theft from Vehicle,2023,3,31,10,0,28XX E HASTINGS ST,Hastings-Sunrise,496773.3471,5458716.7839
+Theft from Vehicle,2023,3,9,16,30,28XX KITCHENER ST,Hastings-Sunrise,496748.851,5457731.071
+Theft from Vehicle,2023,5,17,23,30,28XX PANDORA ST,Hastings-Sunrise,496609.4352,5458909.8464
+Theft from Vehicle,2023,6,4,19,0,29XX E 8TH AVE,Hastings-Sunrise,496776.4305,5456681.9409
+Theft from Vehicle,2023,3,3,18,30,29XX E HASTINGS ST,Hastings-Sunrise,496808.7101,5458716.797
+Theft from Vehicle,2023,5,9,3,0,29XX MCGILL ST,Hastings-Sunrise,496922.8019,5459565.8656
+Theft from Vehicle,2023,7,16,17,0,29XX MCGILL ST,Hastings-Sunrise,496941.553,5459566.0117
+Theft from Vehicle,2023,3,1,16,0,30XX CHARLES ST,Hastings-Sunrise,497088.4247,5457828.855
+Theft from Vehicle,2023,3,14,19,0,30XX E 3RD AVE,Hastings-Sunrise,496986.327,5457198.4227
+Theft from Vehicle,2023,3,2,22,0,30XX E 5TH AVE,Hastings-Sunrise,497012.5204,5456996.7027
+Theft from Vehicle,2023,6,14,7,0,30XX E 5TH AVE,Hastings-Sunrise,497012.5204,5456996.7027
+Theft from Vehicle,2023,6,26,0,0,30XX E 5TH AVE,Hastings-Sunrise,497012.5204,5456996.7027
+Theft from Vehicle,2023,5,10,9,7,30XX E 5TH AVE,Hastings-Sunrise,497124.4187,5456996.1311
+Theft from Vehicle,2023,6,25,18,0,30XX E 7TH AVE,Hastings-Sunrise,497049.0231,5456783.3399
+Theft from Vehicle,2023,3,30,18,30,30XX E 8TH AVE,Hastings-Sunrise,496982.1926,5456681.0624
+Theft from Vehicle,2023,3,9,20,0,30XX E 8TH AVE,Hastings-Sunrise,496999.6061,5456690.1225
+Theft from Vehicle,2023,1,6,21,15,30XX E 8TH AVE,Hastings-Sunrise,497020.4508,5456690.0232
+Theft from Vehicle,2023,5,22,22,30,30XX E BROADWAY AVE,Hastings-Sunrise,497046.4325,5456576.9423
+Theft from Vehicle,2023,4,14,0,0,30XX GRANT ST,Hastings-Sunrise,497128.0657,5457617.1982
+Theft from Vehicle,2023,3,3,18,0,31XX E 1ST AVE,Hastings-Sunrise,497333.5085,5457425.0811
+Theft from Vehicle,2023,4,8,17,0,31XX E 5TH AVE,Hastings-Sunrise,497166.8381,5456986.7714
+Theft from Vehicle,2023,1,28,17,15,31XX E 8TH AVE,Hastings-Sunrise,497163.3898,5456680.1829
+Theft from Vehicle,2023,1,5,17,15,31XX E 8TH AVE,Hastings-Sunrise,497167.0893,5456680.1619
+Theft from Vehicle,2023,2,3,18,0,31XX E PENDER ST,Hastings-Sunrise,497184.3484,5458600.9909
+Theft from Vehicle,2023,6,24,0,50,32XX E 2ND AVE,Hastings-Sunrise,497520.78,5457296.676
+Theft from Vehicle,2023,7,18,5,12,32XX E 6TH AVE,Hastings-Sunrise,497349.0928,5456879.8481
+Theft from Vehicle,2023,3,11,0,0,32XX KITCHENER ST,Hastings-Sunrise,497414.2918,5457729.7517
+Theft from Vehicle,2023,1,21,13,0,33XX E 3RD AVE,Hastings-Sunrise,497556.4009,5457195.6917
+Theft from Vehicle,2023,6,25,0,30,33XX E 3RD AVE,Hastings-Sunrise,497666.6368,5457204.2802
+Theft from Vehicle,2023,6,10,4,0,33XX E 4TH AVE,Hastings-Sunrise,497676.2174,5457101.5972
+Theft from Vehicle,2023,3,22,23,0,33XX E 6TH AVE,Hastings-Sunrise,497617.1822,5456878.4916
+Theft from Vehicle,2023,6,1,10,0,33XX E GEORGIA ST,Hastings-Sunrise,497597.6333,5458394.5842
+Theft from Vehicle,2023,7,10,14,30,33XX NAPIER ST,Hastings-Sunrise,497592.1822,5458028.3201
+Theft from Vehicle,2023,6,13,20,0,33XX VENABLES ST,Hastings-Sunrise,497591.9778,5458212.1312
+Theft from Vehicle,2023,2,17,23,0,33XX VENABLES ST,Hastings-Sunrise,497635.5086,5458202.9831
+Theft from Vehicle,2023,7,4,21,0,34XX DUNDAS ST,Hastings-Sunrise,497784.9901,5459119.818
+Theft from Vehicle,2023,3,26,21,0,34XX DUNDAS ST,Hastings-Sunrise,497895.7581,5459108.9445
+Theft from Vehicle,2023,1,5,20,1,34XX E 3RD AVE,Hastings-Sunrise,497750.8812,5457194.7118
+Theft from Vehicle,2023,6,16,20,3,34XX E HASTINGS ST,Hastings-Sunrise,497728.7854,5458705.7993
+Theft from Vehicle,2023,7,11,7,45,34XX E HASTINGS ST,Hastings-Sunrise,497820.9939,5458705.2418
+Theft from Vehicle,2023,3,17,4,58,34XX FRANKLIN ST,Hastings-Sunrise,497763.2316,5458808.7472
+Theft from Vehicle,2023,1,1,12,0,34XX FRANKLIN ST,Hastings-Sunrise,497892.8375,5458808.0812
+Theft from Vehicle,2023,4,14,19,0,34XX NAPIER ST,Hastings-Sunrise,497808.555,5458026.9509
+Theft from Vehicle,2023,1,4,4,29,35XX E PENDER ST,Hastings-Sunrise,498061.1052,5458610.9105
+Theft from Vehicle,2023,6,16,12,0,35XX NAPIER ST,Hastings-Sunrise,497939.2702,5458026.1061
+Theft from Vehicle,2023,4,11,21,0,35XX NAPIER ST,Hastings-Sunrise,498090.5463,5458025.0999
+Theft from Vehicle,2023,7,7,3,31,35XX WILLIAM ST,Hastings-Sunrise,498069.9376,5457923.9711
+Theft from Vehicle,2023,6,6,22,0,36XX E GEORGIA ST,Hastings-Sunrise,498139.4645,5458394.6193
+Theft from Vehicle,2023,3,11,5,40,36XX E HASTINGS ST,Hastings-Sunrise,498254.1992,5458714.1627
+Theft from Vehicle,2023,3,11,5,41,36XX E HASTINGS ST,Hastings-Sunrise,498254.1992,5458714.1627
+Theft from Vehicle,2023,7,14,0,0,36XX E PENDER ST,Hastings-Sunrise,498133.027,5458601.6573
+Theft from Vehicle,2023,7,10,11,40,36XX FRANKLIN ST,Hastings-Sunrise,498163.4063,5458815.8168
+Theft from Vehicle,2023,4,18,1,0,4XX FELLOWES ST,Hastings-Sunrise,498026.3526,5459572.1605
+Theft from Vehicle,2023,5,8,19,0,5XX SLOCAN ST,Hastings-Sunrise,496416.0747,5458533.7801
+Theft from Vehicle,2023,1,8,0,0,7XX RENFREW ST,Hastings-Sunrise,496797.0946,5458387.7258
+Theft from Vehicle,2023,7,12,23,0,7XX RENFREW ST,Hastings-Sunrise,496797.116,5458390.7979
+Theft from Vehicle,2023,5,1,18,0,7XX SLOCAN ST,Hastings-Sunrise,496414.0902,5458342.9117
+Theft from Vehicle,2023,6,13,18,0,8XX CASSIAR ST,Hastings-Sunrise,497766.9328,5458295.7143
+Theft from Vehicle,2023,2,3,11,0,8XX LILLOOET ST,Hastings-Sunrise,497176.8707,5458290.3024
+Theft from Vehicle,2023,2,9,22,0,9X CASSIAR ST,Hastings-Sunrise,497759.3347,5459024.1559
+Theft from Vehicle,2023,1,22,16,0,9XX BOUNDARY RD,Hastings-Sunrise,498276.1887,5458217.9477
+Theft from Vehicle,2023,2,27,12,0,9XX CASSIAR ST,Hastings-Sunrise,497769.3819,5458156.2237
+Theft from Vehicle,2023,3,23,22,0,BOUNDARY RD / E PENDER ST,Hastings-Sunrise,498281.4099,5458608.6708
+Theft from Vehicle,2023,6,13,23,30,CAMBRIDGE ST / N SLOCAN ST,Hastings-Sunrise,496413.9451,5459331.6259
+Theft from Vehicle,2023,2,5,10,0,E 1ST AVE / NANAIMO ST,Hastings-Sunrise,495881.9559,5457406.9744
+Theft from Vehicle,2023,3,9,3,22,E 4TH AVE / NOOTKA ST,Hastings-Sunrise,496979.8181,5457100.214
+Theft from Vehicle,2023,3,17,18,20,E HASTINGS ST / KASLO ST,Hastings-Sunrise,496606.464,5458712.2049
+Theft from Vehicle,2023,1,27,17,26,E HASTINGS ST / PENTICTON ST,Hastings-Sunrise,496219.8767,5458713.3911
+Theft from Vehicle,2023,3,22,1,0,E HASTINGS ST / SLOCAN ST,Hastings-Sunrise,496411.7739,5458712.8621
+Theft from Vehicle,2023,1,6,17,0,ETON ST / N KASLO ST,Hastings-Sunrise,496604.2978,5459440.922
+Theft from Vehicle,2023,7,18,3,10,PARKER ST / SLOCAN ST,Hastings-Sunrise,496409.2834,5458117.3337
+Theft from Vehicle,2023,6,25,10,30,PENTICTON ST / TURNER ST,Hastings-Sunrise,496218.4819,5458484.2249
+Theft of Bicycle,2023,7,16,23,0,10XX LE ROI ST,Hastings-Sunrise,497076.3303,5458036.888
+Theft of Bicycle,2023,3,2,15,45,1ST AVE / BOUNDARY RD,Hastings-Sunrise,498276.8171,5457405.477
+Theft of Bicycle,2023,5,19,18,0,1XX N RENFREW ST,Hastings-Sunrise,496800.8536,5459216.9907
+Theft of Bicycle,2023,6,13,11,0,27XX E HASTINGS ST,Hastings-Sunrise,496503.532,5458717.1244
+Theft of Bicycle,2023,5,28,17,0,27XX MCGILL ST,Hastings-Sunrise,496569.0419,5459557.5723
+Theft of Bicycle,2023,5,31,17,0,29XX E 1ST AVE,Hastings-Sunrise,496904.1707,5457398.0494
+Theft of Bicycle,2023,1,3,20,30,32XX E 2ND AVE,Hastings-Sunrise,497365.3582,5457297.0615
+Theft of Vehicle,2023,7,19,0,1,14XX RENFREW ST,Hastings-Sunrise,496781.3126,5457689.7159
+Theft of Vehicle,2023,1,30,7,0,1XX RENFREW ST,Hastings-Sunrise,496804.9425,5459011.2083
+Theft of Vehicle,2023,3,21,19,48,21XX NANAIMO ST,Hastings-Sunrise,495887.8573,5456994.8653
+Theft of Vehicle,2023,6,6,13,0,22XX KAMLOOPS ST,Hastings-Sunrise,496014.8251,5456868.8947
+Theft of Vehicle,2023,7,12,22,50,24XX FRANKLIN ST,Hastings-Sunrise,495895.0946,5458810.0956
+Theft of Vehicle,2023,1,21,20,0,24XX TURNER ST,Hastings-Sunrise,495888.2905,5458480.6055
+Theft of Vehicle,2023,7,6,21,32,24XX WILLIAM ST,Hastings-Sunrise,495937.6061,5457938.4332
+Theft of Vehicle,2023,6,18,22,0,24XX YALE ST,Hastings-Sunrise,496020.6335,5459773.0565
+Theft of Vehicle,2023,3,5,13,30,25XX E 4TH AVE,Hastings-Sunrise,496025.4448,5457098.7128
+Theft of Vehicle,2023,4,25,22,50,26XX E PENDER ST,Hastings-Sunrise,496313.5593,5458604.5867
+Theft of Vehicle,2023,1,12,20,20,28XX E HASTINGS ST,Hastings-Sunrise,496623.0239,5458716.7776
+Theft of Vehicle,2023,5,23,21,0,28XX PARKER ST,Hastings-Sunrise,496593.3939,5458064.9526
+Theft of Vehicle,2023,3,22,9,0,29XX GRAVELEY ST,Hastings-Sunrise,496790.3777,5457513.1983
+Theft of Vehicle,2023,2,19,2,33,30XX E 8TH AVE,Hastings-Sunrise,497065.5667,5456680.662
+Theft of Vehicle,2023,6,10,16,0,30XX E HASTINGS ST,Hastings-Sunrise,497160.0445,5458708.0295
+Theft of Vehicle,2023,7,1,18,0,31XX E 2ND AVE,Hastings-Sunrise,497325.3808,5457306.2827
+Theft of Vehicle,2023,2,12,23,0,31XX E 7TH AVE,Hastings-Sunrise,497224.8642,5456791.2819
+Theft of Vehicle,2023,5,14,19,0,32XX E 3RD AVE,Hastings-Sunrise,497442.2948,5457205.4095
+Theft of Vehicle,2023,4,29,21,0,32XX E GEORGIA ST,Hastings-Sunrise,497377.7781,5458386.3511
+Theft of Vehicle,2023,5,21,19,0,32XX E GEORGIA ST,Hastings-Sunrise,497452.5374,5458395.2918
+Theft of Vehicle,2023,3,17,23,0,33XX CHARLES ST,Hastings-Sunrise,497563.2842,5457827.2374
+Theft of Vehicle,2023,2,1,12,0,34XX E PENDER ST,Hastings-Sunrise,497758.422,5458602.6178
+Theft of Vehicle,2023,2,10,17,0,35XX ETON ST,Hastings-Sunrise,498032.7697,5459436.4765
+Theft of Vehicle,2023,4,17,20,0,35XX LOUGHEED HWY,Hastings-Sunrise,497982.9488,5456805.8461
+Theft of Vehicle,2023,2,27,0,30,35XX TURNER ST,Hastings-Sunrise,497946.1175,5458475.3182
+Theft of Vehicle,2023,2,21,22,0,35XX TURNER ST,Hastings-Sunrise,497974.2276,5458484.2094
+Theft of Vehicle,2023,5,1,17,30,36XX CAMBRIDGE ST,Hastings-Sunrise,498259.8635,5459322.9038
+Theft of Vehicle,2023,6,5,22,0,4XX KAMLOOPS ST,Hastings-Sunrise,496025.2415,5458645.527
+Theft of Vehicle,2023,4,15,17,45,4XX KAMLOOPS ST,Hastings-Sunrise,496034.8314,5458712.3067
+Theft of Vehicle,2023,6,5,7,0,5XX N KOOTENAY ST,Hastings-Sunrise,498126.9711,5459668.6735
+Theft of Vehicle,2023,7,3,20,0,6XX KOOTENAY ST,Hastings-Sunrise,498133.7182,5458476.8815
+Theft of Vehicle,2023,2,21,6,15,CASSIAR ST / PANDORA ST,Hastings-Sunrise,497754.9515,5458911.9126
+Theft of Vehicle,2023,6,4,22,0,E GEORGIA ST / KOOTENAY ST,Hastings-Sunrise,498129.1232,5458390.2146
+Vehicle Collision or Pedestrian Struck (with Fatality),2023,1,22,22,15,E 6TH AVE / NOOTKA ST,Hastings-Sunrise,496978.0,5456886.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,1,17,18,22,26XX TRANS CANADA HWY,Hastings-Sunrise,497698.0,5458248.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,17,16,7,26XX TRANS CANADA HWY,Hastings-Sunrise,497704.0,5458161.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,6,2,16,23,28XX BLOCK E 3RD AVE,Hastings-Sunrise,496618.0,5457205.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,3,12,53,28XX E 1ST AVE,Hastings-Sunrise,496618.0,5457404.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,3,3,20,34,29XX BLOCK E HASTINGS ST,Hastings-Sunrise,496860.0,5458712.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,3,14,17,39,33XX BLOCK E HASTINGS ST,Hastings-Sunrise,497537.0,5458712.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,3,22,18,32,36XX BLOCK FRANKLIN ST,Hastings-Sunrise,498156.0,5458811.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,7,14,49,BOUNDARY RD / PARKER ST,Hastings-Sunrise,498280.0,5458112.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,1,29,0,18,E 1ST AVE / KASLO ST,Hastings-Sunrise,496584.0,5457404.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,6,27,9,49,E 1ST AVE / RENFREW ST,Hastings-Sunrise,496782.0,5457402.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,8,16,57,E HASTINGS ST / SLOCAN ST,Hastings-Sunrise,496411.0,5458712.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,4,6,17,17,LILLOOET ST / E 1ST AVE,Hastings-Sunrise,497167.0,5457422.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,7,0,39,N RENFREW ST / MCGILL ST,Hastings-Sunrise,496796.0,5459560.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,4,15,24,NOOTKA ST / E 7TH AVE,Hastings-Sunrise,496977.0,5456788.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,5,29,8,28,PARKER ST / LILLOOET ST,Hastings-Sunrise,497170.0,5458068.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,4,14,9,1,PENTICTON ST / E 1ST AVE,Hastings-Sunrise,496211.0,5457405.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,1,14,22,56,RENFREW ST / CHARLES ST,Hastings-Sunrise,496787.0,5457834.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,2,1,21,25,RENFREW ST / E 2ND AVE,Hastings-Sunrise,496781.0,5457303.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,2,3,14,57,RENFREW ST / E 3RD AVE,Hastings-Sunrise,496779.0,5457204.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,1,14,9,2,RENFREW ST / E HASTINGS ST,Hastings-Sunrise,496797.0,5458712.0
+Vehicle Collision or Pedestrian Struck (with Injury),2023,1,30,7,26,RENFREW ST / E HASTINGS ST,Hastings-Sunrise,496797.0,5458712.0
+Break and Enter Commercial,2023,3,30,21,0,18XX RENFREW ST,Hastings-Sunrise,496785.7084,5457264.3718
+Break and Enter Commercial,2023,1,8,1,11,23XX CASSIAR ST,Hastings-Sunrise,497738.9244,5456771.7015
+Break and Enter Commercial,2023,6,14,18,30,24XX E 1ST AVE,Hastings-Sunrise,495975.3076,5457402.6038
+Break and Enter Commercial,2023,1,3,5,30,24XX E HASTINGS ST,Hastings-Sunrise,495900.0293,5458709.6718
+Break and Enter Commercial,2023,3,13,22,47,24XX E HASTINGS ST,Hastings-Sunrise,495919.1952,5458709.6248
+Break and Enter Commercial,2023,4,6,7,2,24XX E HASTINGS ST,Hastings-Sunrise,495984.9296,5458718.6078
+Break and Enter Commercial,2023,2,6,4,30,24XX E HASTINGS ST,Hastings-Sunrise,496001.3575,5458718.5676
+Break and Enter Commercial,2023,1,18,22,1,26XX E HASTINGS ST,Hastings-Sunrise,496258.7779,5458717.8559
+Break and Enter Commercial,2023,5,23,0,0,26XX E HASTINGS ST,Hastings-Sunrise,496273.4778,5458708.6713
+Break and Enter Commercial,2023,6,2,0,9,26XX E HASTINGS ST,Hastings-Sunrise,496278.8289,5458717.8005
+Break and Enter Commercial,2023,3,11,7,0,26XX E HASTINGS ST,Hastings-Sunrise,496285.853,5458708.6371
+Break and Enter Commercial,2023,7,18,10,7,26XX E HASTINGS ST,Hastings-Sunrise,496299.272,5458717.7442
+Break and Enter Commercial,2023,3,10,17,0,26XX E HASTINGS ST,Hastings-Sunrise,496365.5352,5458717.5616
+Break and Enter Commercial,2023,1,26,1,12,27XX E HASTINGS ST,Hastings-Sunrise,496568.1377,5458716.9063
+Break and Enter Commercial,2023,2,6,0,16,27XX E HASTINGS ST,Hastings-Sunrise,496568.1377,5458716.9063
+Break and Enter Commercial,2023,3,31,23,0,27XX E HASTINGS ST,Hastings-Sunrise,496568.1377,5458716.9063
+Break and Enter Commercial,2023,4,19,3,20,28XX E 1ST AVE,Hastings-Sunrise,496761.6929,5457429.5117
+Break and Enter Commercial,2023,4,21,20,5,28XX E HASTINGS ST,Hastings-Sunrise,496663.4687,5458707.6353
+Break and Enter Commercial,2023,4,24,6,30,28XX E HASTINGS ST,Hastings-Sunrise,496663.4687,5458707.6353
+Break and Enter Commercial,2023,6,12,9,0,29XX E HASTINGS ST,Hastings-Sunrise,496808.7199,5458707.653
+Break and Enter Commercial,2023,3,19,7,48,29XX GRAVELEY ST,Hastings-Sunrise,496821.239,5457513.087
+Break and Enter Commercial,2023,6,10,4,0,33XX E 4TH AVE,Hastings-Sunrise,497676.2174,5457101.5972
+Break and Enter Commercial,2023,3,18,19,1,34XX BRIDGEWAY,Hastings-Sunrise,497817.7421,5459648.0677
+Break and Enter Commercial,2023,4,2,6,15,34XX E HASTINGS ST,Hastings-Sunrise,497775.6526,5458710.0006
+Break and Enter Commercial,2023,1,26,0,0,34XX E HASTINGS ST,Hastings-Sunrise,497779.0396,5458714.6395
+Break and Enter Commercial,2023,4,17,21,0,35XX LOUGHEED HWY,Hastings-Sunrise,497982.9488,5456805.8461
+Break and Enter Commercial,2023,3,14,3,39,36XX E HASTINGS ST,Hastings-Sunrise,498192.8067,5458704.8464
+Break and Enter Commercial,2023,2,13,3,20,3XX SLOCAN ST,Hastings-Sunrise,496416.4008,5458724.2134
+Break and Enter Commercial,2023,3,24,17,0,4XX NANAIMO ST,Hastings-Sunrise,495891.8794,5458651.1123
+Break and Enter Residential/Other,2023,1,7,5,0,11XX NOOTKA ST,Hastings-Sunrise,496992.1971,5457965.3752
+Break and Enter Residential/Other,2023,4,13,10,59,12XX KAMLOOPS ST,Hastings-Sunrise,496017.8021,5457847.4634
+Break and Enter Residential/Other,2023,4,13,12,0,21XX CASSIAR ST,Hastings-Sunrise,497748.9482,5456977.5926
+Break and Enter Residential/Other,2023,3,21,2,0,22XX CASSIAR ST,Hastings-Sunrise,497748.1637,5456793.7356
+Break and Enter Residential/Other,2023,3,27,16,30,22XX CASSIAR ST,Hastings-Sunrise,497748.1637,5456793.7356
+Break and Enter Residential/Other,2023,1,8,19,8,23XX CASSIAR ST,Hastings-Sunrise,497747.9731,5456749.5885
+Break and Enter Residential/Other,2023,4,9,23,0,23XX HERMON DR,Hastings-Sunrise,497758.3793,5456700.4278
+Break and Enter Residential/Other,2023,3,12,23,0,24XX CAMBRIDGE ST,Hastings-Sunrise,495966.9822,5459337.2063
+Break and Enter Residential/Other,2023,2,8,14,26,24XX E 1ST AVE,Hastings-Sunrise,495975.3076,5457402.6038
+Break and Enter Residential/Other,2023,4,25,7,30,24XX MCGILL ST,Hastings-Sunrise,496010.4728,5459550.5726
+Break and Enter Residential/Other,2023,1,28,0,35,24XX TRIUMPH ST,Hastings-Sunrise,495934.8501,5459022.7882
+Break and Enter Residential/Other,2023,7,2,5,53,24XX TURNER ST,Hastings-Sunrise,495989.6991,5458480.0872
+Break and Enter Residential/Other,2023,4,12,23,6,24XX WILLIAM ST,Hastings-Sunrise,495980.1547,5457928.7651
+Break and Enter Residential/Other,2023,5,20,18,0,25XX E GEORGIA ST,Hastings-Sunrise,496208.5401,5458398.2248
+Break and Enter Residential/Other,2023,5,22,14,0,25XX ETON ST,Hastings-Sunrise,496121.3254,5459439.0504
+Break and Enter Residential/Other,2023,6,17,12,0,25XX MCGILL ST,Hastings-Sunrise,496188.1539,5459558.0153
+Break and Enter Residential/Other,2023,3,7,23,0,25XX NAPIER ST,Hastings-Sunrise,496194.9193,5458020.9157
+Break and Enter Residential/Other,2023,6,6,23,32,25XX OXFORD ST,Hastings-Sunrise,496073.0976,5459221.3373
+Break and Enter Residential/Other,2023,3,8,9,42,26XX NAPIER ST,Hastings-Sunrise,496228.7201,5458029.9661
+Break and Enter Residential/Other,2023,6,29,21,45,26XX TRIUMPH ST,Hastings-Sunrise,496337.0,5459021.0
+Break and Enter Residential/Other,2023,4,2,2,30,27XX E 3RD AVE,Hastings-Sunrise,496426.1797,5457209.0074
+Break and Enter Residential/Other,2023,1,3,0,3,27XX GRAVELEY ST,Hastings-Sunrise,496434.2576,5457515.0464
+Break and Enter Residential/Other,2023,5,25,12,0,27XX VENABLES ST,Hastings-Sunrise,496534.0585,5458205.9428
+Break and Enter Residential/Other,2023,2,13,0,0,27XX WALL ST,Hastings-Sunrise,496552.342,5459891.3009
+Break and Enter Residential/Other,2023,1,11,3,0,28XX ADANAC ST,Hastings-Sunrise,496637.5327,5458296.1093
+Break and Enter Residential/Other,2023,3,16,16,27,28XX DUNDAS ST,Hastings-Sunrise,496654.0079,5459119.3354
+Break and Enter Residential/Other,2023,2,8,12,0,28XX MCGILL ST,Hastings-Sunrise,496669.1825,5459547.2202
+Break and Enter Residential/Other,2023,2,3,16,0,28XX MCGILL ST,Hastings-Sunrise,496785.591,5459541.878
+Break and Enter Residential/Other,2023,6,19,19,30,28XX TURNER ST,Hastings-Sunrise,496689.7636,5458488.3621
+Break and Enter Residential/Other,2023,5,29,2,50,29XX GRAVELEY ST,Hastings-Sunrise,496886.8193,5457512.8503
+Break and Enter Residential/Other,2023,4,6,1,0,30XX E 4TH AVE,Hastings-Sunrise,497086.954,5457104.4681
+Break and Enter Residential/Other,2023,5,10,9,7,30XX E 5TH AVE,Hastings-Sunrise,497124.4187,5456996.1311
+Break and Enter Residential/Other,2023,2,3,14,30,30XX E 7TH AVE,Hastings-Sunrise,497113.2016,5456782.9146
+Break and Enter Residential/Other,2023,7,12,4,30,30XX GRAVELEY ST,Hastings-Sunrise,497095.7914,5457520.9003
+Break and Enter Residential/Other,2023,3,8,6,15,31XX E 5TH AVE,Hastings-Sunrise,497209.2372,5456986.5633
+Break and Enter Residential/Other,2023,7,12,4,40,31XX GRANT ST,Hastings-Sunrise,497212.03,5457616.9985
+Break and Enter Residential/Other,2023,7,1,4,0,33XX E 3RD AVE,Hastings-Sunrise,497711.2194,5457194.9124
+Break and Enter Residential/Other,2023,6,16,23,51,33XX WILLIAM ST,Hastings-Sunrise,497620.5748,5457925.9836
+Break and Enter Residential/Other,2023,5,16,19,44,34XX BRIDGEWAY,Hastings-Sunrise,497817.7421,5459648.0677
+Break and Enter Residential/Other,2023,3,3,11,0,34XX E 4TH AVE,Hastings-Sunrise,497762.6198,5457101.3342
+Break and Enter Residential/Other,2023,4,28,0,0,34XX E 5TH AVE,Hastings-Sunrise,497789.5968,5456992.7622
+Break and Enter Residential/Other,2023,3,14,13,30,35XX E PENDER ST,Hastings-Sunrise,497973.2072,5458611.1458
+Break and Enter Residential/Other,2023,4,19,10,20,35XX FRANKLIN ST,Hastings-Sunrise,498102.839,5458806.933
+Break and Enter Residential/Other,2023,5,2,22,0,36XX EDINBURGH ST,Hastings-Sunrise,498270.3112,5459867.1593
+Break and Enter Residential/Other,2023,2,1,22,7,36XX MCGILL ST,Hastings-Sunrise,498178.8401,5459544.4511
+Break and Enter Residential/Other,2023,4,17,1,0,36XX YALE ST,Hastings-Sunrise,498180.4479,5459766.7352
+Break and Enter Residential/Other,2023,4,29,18,0,6XX SLOCAN ST,Hastings-Sunrise,496415.9187,5458458.502
+Break and Enter Residential/Other,2023,4,2,20,30,9XX NOOTKA ST,Hastings-Sunrise,496993.5656,5458155.6151
+Mischief,2023,4,6,7,0,10XX BOUNDARY RD,Hastings-Sunrise,498275.62,5458124.9411
+Mischief,2023,1,4,20,0,10XX PENTICTON ST,Hastings-Sunrise,496220.704,5458082.275
+Mischief,2023,1,14,18,0,11XX LILLOOET ST,Hastings-Sunrise,497165.599,5457948.6772
+Mischief,2023,1,24,22,0,13XX RUPERT ST,Hastings-Sunrise,497548.4972,5457797.8765
+Mischief,2023,1,22,1,0,15XX KASLO ST,Hastings-Sunrise,496592.4526,5457621.5143
+Mischief,2023,6,28,12,7,16XX KASLO ST,Hastings-Sunrise,496591.2595,5457517.6946
+Mischief,2023,6,2,3,28,17XX RUPERT ST,Hastings-Sunrise,497561.1648,5457379.7529
+Mischief,2023,2,12,8,30,19XX BOUNDARY RD,Hastings-Sunrise,498272.3684,5457106.6566
+Mischief,2023,5,6,23,55,1XX N RENFREW ST,Hastings-Sunrise,496800.8536,5459216.9907
+Mischief,2023,1,23,13,50,21XX CASSIAR ST,Hastings-Sunrise,497748.8874,5456963.188
+Mischief,2023,4,18,23,23,21XX RENFREW ST,Hastings-Sunrise,496780.854,5456966.4059
+Mischief,2023,4,15,19,0,21XX RUPERT ST,Hastings-Sunrise,497555.0125,5456891.9766
+Mischief,2023,2,25,18,0,22XX HERMON DR,Hastings-Sunrise,497850.521,5456831.2323
+Mischief,2023,6,26,10,55,22XX HERMON DR,Hastings-Sunrise,497850.521,5456831.2323
+Mischief,2023,1,8,1,11,23XX CASSIAR ST,Hastings-Sunrise,497738.9244,5456771.7015
+Mischief,2023,7,18,8,30,24XX CASSIAR ST,Hastings-Sunrise,497747.2928,5456614.4259
+Mischief,2023,2,8,14,26,24XX E 1ST AVE,Hastings-Sunrise,495975.3076,5457402.6038
+Mischief,2023,4,2,23,0,24XX E 1ST AVE,Hastings-Sunrise,495975.3076,5457402.6038
+Mischief,2023,5,13,10,30,24XX E 5TH AVE,Hastings-Sunrise,495903.6689,5456994.123
+Mischief,2023,3,21,9,0,24XX E HASTINGS ST,Hastings-Sunrise,495984.9085,5458709.4646
+Mischief,2023,5,4,6,30,24XX FRANKLIN ST,Hastings-Sunrise,495993.3725,5458818.8685
+Mischief,2023,1,19,14,10,24XX MCGILL ST,Hastings-Sunrise,495960.492,5459559.4312
+Mischief,2023,4,27,16,30,24XX PANDORA ST,Hastings-Sunrise,496009.7708,5458912.6593
+Mischief,2023,5,27,23,20,25XX PANDORA ST,Hastings-Sunrise,496212.3193,5458911.7711
+Mischief,2023,3,22,0,5,25XX TRIUMPH ST,Hastings-Sunrise,496156.5892,5459021.9402
+Mischief,2023,4,6,20,30,25XX VENABLES ST,Hastings-Sunrise,496129.6565,5458214.2647
+Mischief,2023,6,14,21,0,26XX E HASTINGS ST,Hastings-Sunrise,496255.0713,5458708.722
+Mischief,2023,7,12,23,32,26XX E HASTINGS ST,Hastings-Sunrise,496266.1431,5458717.8389
+Mischief,2023,1,8,23,51,26XX E HASTINGS ST,Hastings-Sunrise,496354.4913,5458717.592
+Mischief,2023,3,25,11,24,26XX E HASTINGS ST,Hastings-Sunrise,496361.8287,5458708.4277
+Mischief,2023,5,22,22,0,26XX E PENDER ST,Hastings-Sunrise,496224.9332,5458604.9828
+Mischief,2023,2,26,23,0,26XX PANDORA ST,Hastings-Sunrise,496355.4567,5458920.1805
+Mischief,2023,3,18,10,50,26XX TRANS CANADA HWY,Hastings-Sunrise,497736.5113,5458111.1362
+Mischief,2023,2,4,23,0,27XX E 3RD AVE,Hastings-Sunrise,496430.3257,5457199.8841
+Mischief,2023,7,12,13,0,27XX E 4TH AVE,Hastings-Sunrise,496433.1778,5457106.566
+Mischief,2023,2,8,2,9,27XX E HASTINGS ST,Hastings-Sunrise,496492.2965,5458708.0182
+Mischief,2023,5,9,17,36,27XX GRAVELEY ST,Hastings-Sunrise,496451.7512,5457514.9937
+Mischief,2023,1,22,19,30,27XX TRINITY ST,Hastings-Sunrise,496420.6561,5459658.1715
+Mischief,2023,1,26,20,30,27XX TURNER ST,Hastings-Sunrise,496516.1121,5458479.3457
+Mischief,2023,4,29,20,15,28XX E 1ST AVE,Hastings-Sunrise,496590.7519,5457399.7562
+Mischief,2023,5,31,20,0,28XX E 2ND AVE,Hastings-Sunrise,496711.4096,5457298.712
+Mischief,2023,1,30,2,9,28XX E HASTINGS ST,Hastings-Sunrise,496777.0101,5458707.64
+Mischief,2023,3,12,19,0,28XX E PENDER ST,Hastings-Sunrise,496757.3137,5458611.473
+Mischief,2023,1,2,15,32,29XX E HASTINGS ST,Hastings-Sunrise,496808.7101,5458716.797
+Mischief,2023,1,10,20,33,29XX E HASTINGS ST,Hastings-Sunrise,496808.7101,5458716.797
+Mischief,2023,1,20,17,30,29XX E HASTINGS ST,Hastings-Sunrise,496808.7101,5458716.797
+Mischief,2023,3,18,13,0,29XX E HASTINGS ST,Hastings-Sunrise,496808.7101,5458716.797
+Mischief,2023,2,7,21,0,29XX KITCHENER ST,Hastings-Sunrise,496827.7643,5457730.6113
+Mischief,2023,5,27,16,7,29XX WALL ST,Hastings-Sunrise,496929.3553,5459673.9866
+Mischief,2023,6,12,1,30,2XX RENFREW ST,Hastings-Sunrise,496796.5219,5458819.9741
+Mischief,2023,2,15,17,45,2XX SKEENA ST,Hastings-Sunrise,497944.9386,5458860.5122
+Mischief,2023,7,10,17,0,31XX TURNER ST,Hastings-Sunrise,497276.016,5458485.7349
+Mischief,2023,7,2,2,45,32XX TURNER ST,Hastings-Sunrise,497477.6714,5458484.2983
+Mischief,2023,1,8,14,31,33XX E 6TH AVE,Hastings-Sunrise,497617.1822,5456878.4916
+Mischief,2023,2,9,3,0,33XX E 6TH AVE,Hastings-Sunrise,497617.1822,5456878.4916
+Mischief,2023,4,19,23,0,33XX E 6TH AVE,Hastings-Sunrise,497617.1822,5456878.4916
+Mischief,2023,6,21,20,36,33XX NEW BRIGHTON RD,Hastings-Sunrise,497481.8689,5459583.9212
+Mischief,2023,1,7,19,0,34XX E 4TH AVE,Hastings-Sunrise,497773.1046,5457101.3146
+Mischief,2023,7,18,23,30,34XX E HASTINGS ST,Hastings-Sunrise,497820.9939,5458705.2418
+Mischief,2023,6,27,23,46,34XX E HASTINGS ST,Hastings-Sunrise,497886.35,5458713.9913
+Mischief,2023,5,2,20,0,34XX E HASTINGS ST,Hastings-Sunrise,497936.9092,5458704.5417
+Mischief,2023,7,17,8,19,34XX WILLIAM ST,Hastings-Sunrise,497819.7891,5457923.8176
+Mischief,2023,3,29,0,0,35XX ADANAC ST,Hastings-Sunrise,498034.2183,5458292.6525
+Mischief,2023,1,30,2,43,35XX E PENDER ST,Hastings-Sunrise,498119.0821,5458610.7504
+Mischief,2023,1,29,15,6,36XX E HASTINGS ST,Hastings-Sunrise,498239.5758,5458714.1217
+Mischief,2023,4,23,5,0,36XX E PENDER ST,Hastings-Sunrise,498133.027,5458601.6573
+Mischief,2023,6,26,21,30,36XX FRANKLIN ST,Hastings-Sunrise,498140.8921,5458806.7455
+Mischief,2023,4,9,22,8,36XX NAPIER ST,Hastings-Sunrise,498223.5696,5458024.1774
+Mischief,2023,5,18,22,0,36XX TURNER ST,Hastings-Sunrise,498171.3628,5458473.5854
+Mischief,2023,1,15,23,0,36XX WILLIAM ST,Hastings-Sunrise,498215.1764,5457924.3503
+Mischief,2023,3,17,13,0,3XX KASLO ST,Hastings-Sunrise,496611.0317,5458723.4524
+Mischief,2023,4,16,20,0,3XX KASLO ST,Hastings-Sunrise,496611.0317,5458723.4524
+Mischief,2023,3,17,13,0,3XX RENFREW ST,Hastings-Sunrise,496795.8959,5458794.7602
+Mischief,2023,7,1,7,35,3XX RENFREW ST,Hastings-Sunrise,496805.6453,5458810.8069
+Mischief,2023,2,2,10,31,5XX CASSIAR ST,Hastings-Sunrise,497761.0059,5458564.5037
+Mischief,2023,3,21,6,40,5XX CASSIAR ST,Hastings-Sunrise,497761.0059,5458564.5037
+Mischief,2023,4,28,22,28,7X N SLOCAN ST,Hastings-Sunrise,496408.6896,5459190.1263
+Mischief,2023,5,31,0,0,9XX BOUNDARY RD,Hastings-Sunrise,498276.1887,5458217.9477
+Mischief,2023,1,7,20,0,9XX RENFREW ST,Hastings-Sunrise,496795.6894,5458182.8945
+Mischief,2023,3,24,13,46,ADANAC ST / CASSIAR ST,Hastings-Sunrise,497761.9605,5458297.7576
+Mischief,2023,5,6,9,30,ADANAC ST / RENFREW ST,Hastings-Sunrise,496791.9338,5458301.8738
+Mischief,2023,4,21,19,20,E 1ST AVE / RENFREW ST,Hastings-Sunrise,496782.9851,5457402.4866
+Mischief,2023,6,25,16,16,E BROADWAY AVE / RUPERT ST,Hastings-Sunrise,497539.1887,5456571.0572
+Mischief,2023,2,16,17,33,E HASTINGS ST / KAMLOOPS ST,Hastings-Sunrise,496030.2701,5458713.9247
+Mischief,2023,7,9,10,0,KASLO ST / WILLIAM ST,Hastings-Sunrise,496590.8704,5457936.7769
+Mischief,2023,5,8,15,0,N RENFREW ST / YALE ST,Hastings-Sunrise,496796.7414,5459774.7166
+Offence Against a Person,2023,4,15,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,17,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,11,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,11,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,1,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,20,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,19,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,5,3,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,16,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,1,14,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,5,27,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,1,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,4,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,5,19,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,30,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,26,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,5,20,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,20,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,3,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,7,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,1,7,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,2,13,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,19,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,15,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,28,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,26,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,5,20,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,1,11,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,2,1,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,2,4,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,23,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,4,10,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,31,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,3,15,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Offence Against a Person,2023,6,4,0,0,OFFSET TO PROTECT PRIVACY,Hastings-Sunrise,0.0,0.0
+Other Theft,2023,4,5,21,0,15XX BOUNDARY RD,Hastings-Sunrise,498273.8153,5457588.5285
+Other Theft,2023,1,2,16,12,22XX CASSIAR ST,Hastings-Sunrise,497748.1637,5456793.7356
+Other Theft,2023,3,7,22,31,24XX E 1ST AVE,Hastings-Sunrise,495905.146,5457428.5791
+Other Theft,2023,5,4,12,36,24XX E 1ST AVE,Hastings-Sunrise,495905.146,5457428.5791
+Other Theft,2023,5,9,0,43,24XX OXFORD ST,Hastings-Sunrise,495961.3656,5459212.5257
+Other Theft,2023,6,30,10,27,25XX E GEORGIA ST,Hastings-Sunrise,496103.1516,5458389.316
+Other Theft,2023,3,14,11,27,25XX E HASTINGS ST,Hastings-Sunrise,496137.7913,5458709.0501
+Other Theft,2023,4,25,20,47,25XX E HASTINGS ST,Hastings-Sunrise,496185.0768,5458708.917
+Other Theft,2023,4,12,15,55,25XX E HASTINGS ST,Hastings-Sunrise,496186.0308,5458718.0583
+Other Theft,2023,5,7,10,10,25XX E HASTINGS ST,Hastings-Sunrise,496186.0308,5458718.0583
+Other Theft,2023,1,12,21,39,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,1,16,18,53,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,3,5,15,25,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,3,28,14,9,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,5,25,17,47,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,5,28,10,7,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,6,1,17,32,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,6,6,18,56,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,6,13,14,40,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,6,20,18,12,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,7,4,12,0,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,7,4,14,27,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,7,7,16,35,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,7,7,20,14,25XX E HASTINGS ST,Hastings-Sunrise,496188.7399,5458718.0508
+Other Theft,2023,7,15,18,0,25XX GRANT ST,Hastings-Sunrise,496101.2188,5457628.7383
+Other Theft,2023,1,8,0,42,25XX VENABLES ST,Hastings-Sunrise,496036.7117,5458214.3632
+Other Theft,2023,2,14,19,30,25XX WALL ST,Hastings-Sunrise,496052.4993,5459831.4208
+Other Theft,2023,3,16,14,32,26XX E HASTINGS ST,Hastings-Sunrise,496299.272,5458717.7442
+Other Theft,2023,2,8,11,48,26XX E HASTINGS ST,Hastings-Sunrise,496302.9281,5458708.5901
+Other Theft,2023,3,10,19,0,26XX OXFORD ST,Hastings-Sunrise,496241.4542,5459211.9228
+Other Theft,2023,5,19,10,30,26XX TURNER ST,Hastings-Sunrise,496314.3153,5458479.5691
+Other Theft,2023,4,15,17,35,27XX E 1ST AVE,Hastings-Sunrise,496433.2396,5457429.6976
+Other Theft,2023,2,9,20,16,27XX E HASTINGS ST,Hastings-Sunrise,496507.236,5458707.9678
+Other Theft,2023,2,9,20,17,27XX E HASTINGS ST,Hastings-Sunrise,496507.236,5458707.9678
+Other Theft,2023,2,12,20,19,27XX E HASTINGS ST,Hastings-Sunrise,496507.236,5458707.9678
+Other Theft,2023,2,11,18,18,27XX E HASTINGS ST,Hastings-Sunrise,496581.9335,5458707.7157
+Other Theft,2023,2,1,15,4,27XX GRAVELEY ST,Hastings-Sunrise,496451.7512,5457514.9937
+Other Theft,2023,3,31,8,18,28XX E 2ND AVE,Hastings-Sunrise,496738.0271,5457298.7504
+Other Theft,2023,1,10,15,48,28XX E 3RD AVE,Hastings-Sunrise,496598.6926,5457200.481
+Other Theft,2023,3,14,18,0,28XX E HASTINGS ST,Hastings-Sunrise,496773.3471,5458716.7839
+Other Theft,2023,2,13,13,30,28XX VENABLES ST,Hastings-Sunrise,496751.6881,5458202.139
+Other Theft,2023,2,22,18,0,29XX E 6TH AVE,Hastings-Sunrise,496886.2261,5456891.9111
+Other Theft,2023,6,20,5,45,29XX E 7TH AVE,Hastings-Sunrise,496777.2028,5456785.6542
+Other Theft,2023,2,1,9,30,29XX E 7TH AVE,Hastings-Sunrise,496921.5277,5456784.3248
+Other Theft,2023,7,1,18,0,29XX E HASTINGS ST,Hastings-Sunrise,496808.7199,5458707.653
+Other Theft,2023,4,7,21,30,29XX E HASTINGS ST,Hastings-Sunrise,496816.2611,5458716.8049
+Other Theft,2023,7,19,4,27,29XX E PENDER ST,Hastings-Sunrise,496972.2478,5458601.7609
+Other Theft,2023,7,12,15,29,29XX GRANT ST,Hastings-Sunrise,496801.9599,5457618.5045
+Other Theft,2023,1,4,17,7,29XX MCGILL ST,Hastings-Sunrise,496979.0553,5459566.3039
+Other Theft,2023,1,22,12,0,2XX RENFREW ST,Hastings-Sunrise,496805.1826,5458912.1314
+Other Theft,2023,1,15,0,0,30XX CHARLES ST,Hastings-Sunrise,497141.8321,5457837.7957
+Other Theft,2023,6,20,9,53,30XX E 2ND AVE,Hastings-Sunrise,497032.8831,5457306.7225
+Other Theft,2023,1,6,0,28,31XX E 8TH AVE,Hastings-Sunrise,497280.4941,5456679.5214
+Other Theft,2023,4,1,2,0,31XX E BROADWAY AVE,Hastings-Sunrise,497332.1429,5456575.5309
+Other Theft,2023,7,12,4,40,31XX GRANT ST,Hastings-Sunrise,497212.03,5457616.9985
+Other Theft,2023,4,6,15,0,31XX KITCHENER ST,Hastings-Sunrise,497314.7939,5457729.9996
+Other Theft,2023,6,24,7,43,32XX E 1ST AVE,Hastings-Sunrise,497354.9081,5457395.8207
+Other Theft,2023,3,31,16,15,32XX E BROADWAY AVE,Hastings-Sunrise,497424.3262,5456575.5833
+Other Theft,2023,1,4,8,0,33XX CHARLES ST,Hastings-Sunrise,497739.1039,5457835.8064
+Other Theft,2023,5,22,15,0,33XX E 2ND AVE,Hastings-Sunrise,497594.2595,5457296.4252
+Other Theft,2023,4,29,2,0,33XX WILLIAM ST,Hastings-Sunrise,497628.1961,5457935.094
+Other Theft,2023,5,28,23,0,33XX WILLIAM ST,Hastings-Sunrise,497666.0595,5457925.7824
+Other Theft,2023,1,26,0,0,34XX E HASTINGS ST,Hastings-Sunrise,497779.0396,5458714.6395
+Other Theft,2023,6,14,21,3,34XX E PENDER ST,Hastings-Sunrise,497854.5031,5458602.3391
+Other Theft,2023,5,1,19,54,35XX DUNDAS ST,Hastings-Sunrise,497982.8441,5459108.0786
+Other Theft,2023,4,3,5,10,35XX E HASTINGS ST,Hastings-Sunrise,497946.4355,5458704.5297
+Other Theft,2023,4,17,21,25,35XX E HASTINGS ST,Hastings-Sunrise,497946.4355,5458704.5297
+Other Theft,2023,4,14,14,44,35XX WILLIAM ST,Hastings-Sunrise,498060.2929,5457933.0367
+Other Theft,2023,2,8,17,11,36XX E HASTINGS ST,Hastings-Sunrise,498140.1402,5458713.845
+Other Theft,2023,2,20,18,18,3XX NANAIMO ST,Hastings-Sunrise,495892.3951,5458776.2115
+Other Theft,2023,3,15,0,0,3XX SKEENA ST,Hastings-Sunrise,497944.1656,5458720.7846
+Other Theft,2023,1,19,23,47,5XX CASSIAR ST,Hastings-Sunrise,497761.0059,5458564.5037
+Other Theft,2023,6,2,20,42,5XX SKEENA ST,Hastings-Sunrise,497935.8716,5458486.7245
+Other Theft,2023,3,9,9,0,6XX N PENTICTON ST,Hastings-Sunrise,496226.387,5459829.866
+Other Theft,2023,3,19,13,30,BOUNDARY RD / E PENDER ST,Hastings-Sunrise,498281.4099,5458608.6708
+Other Theft,2023,7,8,13,58,CASSIAR ST / E PENDER ST,Hastings-Sunrise,497757.0604,5458607.1925
+Other Theft,2023,7,11,15,15,E BROADWAY AVE / RUPERT ST,Hastings-Sunrise,497539.1887,5456571.0572
+Other Theft,2023,5,29,0,0,E GEORGIA ST / WINDERMERE ST,Hastings-Sunrise,497358.1738,5458391.5604
+Other Theft,2023,7,4,11,0,E HASTINGS ST / SKEENA ST,Hastings-Sunrise,497939.4944,5458709.0982
+Other Theft,2023,4,5,12,0,N BOUNDARY RD / TRINITY ST,Hastings-Sunrise,498291.989,5459662.0893
+Other Theft,2023,2,7,15,4,N PENTICTON ST / OXFORD ST,Hastings-Sunrise,496220.9565,5459216.6497
